@@ -1,5 +1,6 @@
 # Comp259FinalProject
 Motion Craft: Visual Animation & Control Interface
+
 Stephanie Torres | Joseph Quarshie | Arpit Singh 
 
 Instructions
